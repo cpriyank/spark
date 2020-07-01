@@ -4,4 +4,5 @@
  * See: https://www.gatsbyjs.org/docs/browser-apis/
  */
 
-// You can delete this file if you're not using it
+// inject the CSS for syntax highlighting into the downloadable payload.
+require('prismjs/themes/prism.css')
