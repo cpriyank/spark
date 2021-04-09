@@ -56,7 +56,9 @@ Other aspect is fulfillment. That involves
 
 I still feel this doesn’t clearly express what I feel, but at least has broader visibility now😅
 
-Dawn 🌸 pictures are in the subfolder called "dawn" of the same link I shared with you before 😅
+---
+
+PS. Dawn 🌸 pictures are in the subfolder called "dawn" of the same link I shared with you before 😅
 https://mega.nz/folder/eh9yRKKa#ekNFWaergxlCG-YHj-lhew
 
 Felt this was relevant to those pictures 😒
