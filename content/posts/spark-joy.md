@@ -48,7 +48,7 @@ Yet another way I define my purpose is to push the edge of technology slightly. 
 This is appealing since it requires very little change in my status quo😜. But I’m certain my current team can definitely not help here 😞
 
 Other aspect is fulfillment. That involves
-- Learning. My current work-environment offers plenitude of this but it’d be fantastic if I learn from my day-to-day work and from my peers.
+- Learning. My current company offers plenitude of learning opportunities if I were to hone my skills in my free time but it’d be fantastic if I learn from my day-to-day work and from my peers.
 - Boredom. When 18th century France was fraught with poverty and the church (which was kind of ruling France) thought of distributing money, Voltaire opposed and advocated to create more work opportunities instead: “Work saves us from three great evils: boredom, vice and need.” I can’t pretend to be excited when 70% of my work has become working config, making beautiful PPTs and creating colorful Excel sheets, and writing Ad-hoc database queries.
 - Personal issues with engineering here: I have a strong aesthetic preference against things that feel slow, effortful, or inefficient. It pains me that it makes thousands of engineers like you and me unproductive by having to do manual, repetitive drudgery (this has been my experience with services and tools I use on daily basis, your experience may be better).
 - Politics: it’s ugly in my team.
