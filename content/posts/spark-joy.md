@@ -1,5 +1,5 @@
 ---
-title: "A Vicarious Proposal"
+title: "Where the Light Is"
 date: '2021-04-08'
 published: true
 layout: post
