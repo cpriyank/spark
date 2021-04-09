@@ -45,7 +45,7 @@ I might get back to this purpose 5 years later if I have support of my family th
 
 Yet another way I define my purpose is to push the edge of technology slightly. This has a potential to save us (humans) from ourselves by automation (deliberately not calling it AI)
 
-This is appealing since it requires very little change in my status quo😜 but I’m certain my current team can definitely not help here 😞
+This is appealing since it requires very little change in my status quo😜. But I’m certain my current team can definitely not help here 😞
 
 Other aspect is fulfillment. That involves
 - Learning. My current work-environment offers plenitude of this but it’d be fantastic if I learn from my day-to-day work and from my peers.
