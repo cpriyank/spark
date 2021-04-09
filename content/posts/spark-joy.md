@@ -29,7 +29,7 @@ I feel the last option is appealing as it has the best chance to keep me sane an
 
 Other way I define my purpose is to advance knowledge of humankind a tiny step further. Research is probably the way to do it.
 
-I can do it if all of these are true:
+I can do it if *all of the following* are true:
 
 - I get transformed from being dumb to overnight genius
 - actually know what I want to research
