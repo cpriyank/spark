@@ -29,8 +29,16 @@ I feel the last option is appealing as it has the best chance to keep me sane an
 
 Other way I define my purpose is to advance knowledge of humankind a tiny step further. Research is probably the way to do it.
 
-I can do it if I get transformed from being dumb to overnight genius, actually know what I want to research, somehow magically maintain interest, beat the odds to get into good research environment, can convincingly beg a bunch of rich idiots to fund my work every year, and do not fall in love with 32 students at once.
-Stats suggests that I’m less likely to be able to do this in creative disciplines like Math or CS and more likely in observational/connectionist biological sciences at this age.
+I can do it if all of these are true:
+
+- I get transformed from being dumb to overnight genius
+- actually know what I want to research
+- somehow magically maintain interest
+- beat the odds to get into good research environment
+- can convincingly beg a bunch of rich idiots to fund my work every year
+- do not fall in love with 32 students at once.
+
+Stats suggests that I’m less likely to be able to do this in abstract disciplines like Math or CS and more likely in observational/connectionist biological sciences at this age.
 I might get back to this purpose 5 years later if I have support of my family then😅
 
 ## Engineer better
