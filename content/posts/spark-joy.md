@@ -47,7 +47,8 @@ Yet another way I define my purpose is to push the edge of technology slightly. 
 
 This is appealing since it requires very little change in my status quo😜. But I’m certain my current team can definitely not help here 😞
 
-Other aspect is fulfillment. That involves
+Other aspect is fulfillment. That involves complaints with mostly with my current team
+- Copies of ideas: My current team largely copies ideas from external companies. It is important to make existing solutions accessible to the world but I'd choose to work in a team that innovates.
 - Learning. My current company offers plenitude of learning opportunities if I were to hone my skills in my free time but it’d be fantastic if I learn from my day-to-day work and from my peers.
 - Boredom. When 18th century France was fraught with poverty and the church (which was kind of ruling France) thought distributing money would be a panacea to all the issues, Voltaire opposed and advocated to create more work opportunities instead: “Work saves us from three great evils: boredom, vice and need.” I can’t pretend to be excited when 70% of my work has become writing config files, making beautiful PPTs and creating colorful Excel sheets, creating PowerBI dashboards manually, and writing Ad-hoc database queries.
 - Personal issues with engineering here: I have a strong aesthetic preference against things that feel slow, effortful, or inefficient. I think that a lot of teams here are abusing the definition of a "Minimal Viable Product", taking shortcuts and leaving a lot of tech debt behind. It pains me that it makes thousands of engineers like you and me unproductive by having to do manual, repetitive drudgery (this has been my experience with services and tools I use on daily basis, your experience may be better).
