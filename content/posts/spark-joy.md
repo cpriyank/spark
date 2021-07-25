@@ -60,9 +60,5 @@ I still feel this doesn’t clearly express what I feel, but at least has broade
 
 ---
 
-PS. Dawn 🌸 pictures are in the subfolder called "dawn" of the same link I shared with you before 😅
+Here are some completely unrelated Sakura pictures from Hanami at UW this year.
 https://mega.nz/folder/eh9yRKKa#ekNFWaergxlCG-YHj-lhew
-
-Felt this was relevant to those pictures 😒
-
-![Why me](https://pics.me.me/how-my-friends-take-pictures-of-me-vs-how-i-13812361.png "Why me")

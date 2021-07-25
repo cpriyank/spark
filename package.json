@@ -1,10 +1,12 @@
 {
-  "name": "nemawashi-home",
+  "name": "cpriyank-home",
   "private": true,
-  "description": "🏡 of Nemawashi",
+  "description": "🏡 Where the Light Is",
   "version": "0.1.0",
-  "author": "Nemawashi <nemawashi.me@gmail.com>",
+  "author": "cpriyank <5903604+cpriyank@users.noreply.github.com>",
   "dependencies": {
+    "@fontsource/forum": "^4.5.0",
+    "@fontsource/syne": "^4.5.0",
     "babel-plugin-styled-components": "^1.10.7",
     "classnames": "^2.2.6",
     "gatsby": "^2.23.12",
@@ -49,6 +51,7 @@
     "eslint": "^7.3.1",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-prettier": "^3.1.4",
+    "gh-pages": "^3.1.0",
     "prettier": "^2.0.5",
     "typescript": "^3.9.5"
   },
@@ -63,7 +66,8 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "repository": {
     "type": "git",

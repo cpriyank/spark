@@ -2,18 +2,18 @@
 'use strict'
 
 module.exports = {
+  pathPrefix: "/spark",
   siteMetadata: {
-    title: 'Nemawashi',
-    description: '🏡  of Nemawashi',
-    siteUrl: 'https://nemawashi.gitlab.io',
+    title: 'Spark',
+    description: '🏡 Where the Light Is',
+    siteUrl: 'https://cpriyank.github.io',
     author: {
-      name: 'Nemawashi',
-      url: 'https://nemawashi.gitlab.io',
-      email: 'nemawashi.me@gmail.com',
+      name: 'cpriyank',
+      url: 'https://cpriyank.gitlab.io',
+      email: '5903604+cpriyank@users.noreply.github.com',
     },
     social: {
-      // twitter: '',
-      github: 'https://gitlab.com/nemawashi',
+      github: 'https://github.com/cpriyank',
     },
   },
   plugins: [
@@ -57,14 +57,14 @@ module.exports = {
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://nemawashi.gitlab.io`,
+        siteUrl: `https://cpriyank.github.io`,
       },
     },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Nemawashi`,
-        short_name: `nemawashi.gitlab.io`,
+        name: `cpriyank`,
+        short_name: `cpriyank.github.io`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,

@@ -7,9 +7,9 @@ tags: ['scenes']
 category: scenes
 ---
 
-[Scene 29, Take 1]
+[Scene 29, Take 3]
 
-[January 13, 2011, 3 to 4 pm]
+[Time: January 13, 2011, between 3 to 4 pm]
 
 [Back and forth on the pavement between D Block and K Block, Nirma University]
 

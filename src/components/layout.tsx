@@ -49,7 +49,7 @@ const Layout: React.FC<Props> = ({children}) => (
     </main>
     <StyledFooter className="footer">
       © {new Date().getFullYear()},{` `}
-      <a href="https://nemawashi.gitlab.io">nemawashi.gitlab.io</a>. Built with
+      <a href="https://cpriyank.github.io">cpriyank.github.io</a>. Built with
       {` `}
       <a href="https://www.gatsbyjs.org">Gatsby</a>
     </StyledFooter>
