@@ -6,3 +6,5 @@
 
 // inject the CSS for syntax highlighting into the downloadable payload.
 require('prismjs/themes/prism.css')
+import "@fontsource/syne"
+import "@fontsource/forum"
